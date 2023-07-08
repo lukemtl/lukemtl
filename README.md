@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukemtl
-- 👀 I’m interested in web app development
-- 🌱 I code mostly in Javascript, Python, Java, I'm learning about app development and serverless functions currently
+- 👀 I’m interested in web app /software development
+- 🌱 Typescript + React + NodesJS (serverless or express) is my main setup.
  
 <!---
 lukemtl/lukemtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
